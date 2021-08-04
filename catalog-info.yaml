@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Hands on"
+  name: "Hands-on"
   description: "Hands on"
   annotations:
     github.com/project-slug: chrischinchilla/hands-backstage
